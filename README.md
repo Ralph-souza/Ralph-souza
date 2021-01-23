@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="github_profile.png" />
+## [![ralph souza's header](https://github.com/Ralph-souza/Ralph-souza/blob/master/images/github_profile.png)]
 <!--
 **Ralph-souza/Ralph-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
