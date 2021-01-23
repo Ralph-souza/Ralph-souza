@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/Ralph-souza/<OWNER>/<OWNER>/github_custom_background.png "Header")]
+[https://drive.google.com/file/d/1xw3BsRbHMKg5wdIxxeYo6hf06eZdcINN/view?usp=sharing]
 <!--
 **Ralph-souza/Ralph-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
