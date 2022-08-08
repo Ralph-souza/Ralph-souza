@@ -1,7 +1,7 @@
 # Hello, i`m Ralph Souza 😄🖖
 
 <!-- @todo Link future personal DEV website URL -->
-[![Blog](https://img.shields.io/website?label=RalphSouza.com&style=for-the-badge&url=https://)]()
+<!-- [![Blog](https://img.shields.io/website?label=RalphSouza.com&style=for-the-badge&url=https://)]() -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralph-ssouza1985/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ralphsouza85/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Ralph-souza)
